@@ -1,0 +1,48 @@
+[
+  {
+    "title": "Business Lunch",
+    "start": "2021-02-03",
+    "constraint": "businessHours"
+  },
+  {
+    "title": "Meeting",
+    "start": "2021-02-13",
+    "constraint": "availableForMeeting",
+    "color": "#257e4a"
+  },
+  {
+    "title": "Conference",
+    "start": "2021-02-18",
+    "end": "2021-02-20"
+  },
+  {
+    "title": "Party",
+    "start": "2021-03-29"
+  },
+  {
+    "groupId": "availableForMeeting",
+    "start": "2021-02-11",
+    "end": "2021-02-11",
+    "display": "background"
+  },
+  {
+    "groupId": "availableForMeeting",
+    "start": "2021-02-13",
+    "end": "2021-02-13",
+    "display": "background"
+  },
+  {
+    "start": "2021-02-24",
+    "end": "2021-02-28",
+    "overlap": false,
+    "display": "background",
+    "color": "#ff9f89"
+  },
+  {
+    "start": "2021-02-06",
+    "end": "2021-02-08",
+    "overlap": false,
+    "display": "background",
+    "color": "#ff9f89"
+  }
+]
