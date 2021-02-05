@@ -1,2 +1,2 @@
 # Calendar
-Simple project with JavaScript FullCalendar library.
+Simple project with JavaScript FullCalendar library (https://fullcalendar.io/).
